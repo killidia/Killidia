@@ -72,4 +72,4 @@ I am a French developer, passionate about programming, understanding computer sy
 	<img src="images/kemal.png" width=50 />
 </div>
 
-and many more beacause i'm very curious ! 😋
+and many more because i'm very curious ! 😋
