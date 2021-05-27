@@ -48,7 +48,7 @@ I am a French developer, passionate about programming, understanding computer sy
 	<img src="images/django.png" width=50 />
 	<img src="images/flask.png" width=50 />
 	<img src="images/tensorflow.png" width=50 />
-	<img src="images/pythorch-logo.png" width=50 />
+	<img src="images/pytorch-logo.png" width=50 />
 	<img src="images/keras.png" width=50 />
 	<img src="images/Scapy_logo.png" width=50 />
 	<img src="images/rocket-rs.png" width=50 />
