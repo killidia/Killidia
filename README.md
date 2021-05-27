@@ -1,6 +1,17 @@
-### Hi there, I'm Killidia 👋
+## Hi there, I'm Killidia 👋
 
-My favorite Languages:
+### About me:
+
+I am a French developer, passionate about programming, understanding computer systems and cyber security.
+
+### Ideas of project:
+
+- An home assistant with many features like Jarvis 😎.
+- An crystal web framework like symfony with many bundle.
+- An complete IDE write in Rust just for fun !
+
+
+### My favorite Languages:
 
 <div>
 	<img src="images/rust.png" width=50 />
@@ -26,3 +37,39 @@ My favorite Languages:
 	<img src="images/go.png" width=50 />
 	<img src="images/Dart-logo.png" width=50 />
 </div>
+
+### Tools or framework I am familiar with:
+
+<div>
+	<img src="images/symfony.png" width=50 />
+	<img src="images/laravel.png" width=50 />
+	<img src="images/cakephp.png" width=50 />
+	<img src="images/slim.jpg" width=50 />
+	<img src="images/django.png" width=50 />
+	<img src="images/flask.png" width=50 />
+	<img src="images/tensorflow.png" width=50 />
+	<img src="images/pythorch-logo.png" width=50 />
+	<img src="images/keras.png" width=50 />
+	<img src="images/Scapy_logo.png" width=50 />
+	<img src="images/rocket-rs.png" width=50 />
+	<img src="images/actix-web.png" width=50 />
+	<img src="images/amethyst.png" width=50 />
+	<img src="images/logo-gtk.png" width=50 />
+	<img src="images/wgpu.svg" width=50 />
+	<img src="images/yew.png" width=50 />
+	<img src="images/wasm.png" width=50 />
+	<img src="images/rails.png" width=50 />
+	<img src="images/metasploit.png" width=50 />
+	<img src="images/flutter.png" width=50 />
+	<img src="images/docker.png" width=50 />
+	<img src="images/firebase.png" width=50 />
+	<img src="images/react.png" width=50 />
+	<img src="images/vue.png" width=50 />
+	<img src="images/nodejs.png" width=50 />
+	<img src="images/electron.png" width=50 />
+	<img src="images/angular.png" width=50 />
+	<img src="images/amber.png" width=50 />
+	<img src="images/kemal.png" width=50 />
+</div>
+
+and many more beacause i'm very curious ! 😋
