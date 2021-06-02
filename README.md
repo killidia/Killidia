@@ -7,9 +7,7 @@ I am a French developer, passionate about programming, understanding computer sy
 ### Ideas of project:
 
 - An home assistant with many features like Jarvis 😎.
-- An crystal web framework like symfony with many bundle.
-- An complete IDE write in Rust just for fun !
-
+- A complete dev suite (code editor, git client, database client, etc...) written in Rust and Tauri !
 
 ### My favorite Languages:
 
