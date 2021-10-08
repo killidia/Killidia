@@ -6,9 +6,9 @@ I am a French developer, passionate about programming, understanding computer sy
 
 ### Ideas of project:
 
+- A No-code platform written in Rust to create cross-platform application 
 - A video Game like among us and werewolf.
 - An home assistant with many features like Jarvis 😎.
-- A complete dev suite (code editor, git client, database client, etc...) written in Rust and Tauri !
 
 ### My favorite Languages:
 
