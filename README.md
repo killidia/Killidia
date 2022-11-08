@@ -4,10 +4,11 @@
 
 I am a French developer, passionate about programming, understanding computer systems and cyber security.
 
-### Ideas of project:
+### personnal project:
 
 - A video Game like among us in werewolf universe.
 - BaaS with a microservices architecture
+- Low code platform binding with my BaaS to generate a fast app 
 
 ### My favorite Languages:
 
