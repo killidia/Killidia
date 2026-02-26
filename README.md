@@ -1,183 +1,161 @@
-## Hi there, I'm Killidia 👋
+```
+ __  __     __     __         __         __     _____     __     ______    
+/\ \/ /    /\ \   /\ \       /\ \       /\ \   /\  __-.  /\ \   /\  __ \   
+\ \  _"-.  \ \ \  \ \ \____  \ \ \____  \ \ \  \ \ \/\ \ \ \ \  \ \  __ \  
+ \ \_\ \_\  \ \_\  \ \_____\  \ \_____\  \ \_\  \ \____-  \ \_\  \ \_\ \_\ 
+  \/_/\/_/   \/_/   \/_____/   \/_____/   \/_/   \/____/   \/_/   \/_/\/_/ 
+                                                                           
+```
 
-### About me:
+### 🦀 Rust Evangelist · ⚙️ Bevy Game Dev · 🐺 Indie Game Dev · 🎮 YouTuber · 🐦 Crystal Lover · 🕸️ Symfony Craftsman
 
-I am a French developer, passionate about programming, understanding computer systems and cyber security.
+<br/>
 
-### personnal project:
+[![YouTube](https://img.shields.io/badge/OxideGames-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@OxideGames-k3f)
+[![Location](https://img.shields.io/badge/Tours%2C_France-0055A4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Tours)
+[![Rust](https://img.shields.io/badge/Rustacean-000000?style=for-the-badge&logo=rust&logoColor=CE422B)](https://www.rust-lang.org/)
 
-- A video Game like among us in werewolf universe.
-- BaaS with a microservices architecture
-- Low code platform binding with my BaaS to generate a fast app 
+</div>
 
-### My favorite Languages:
+---
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
+## 🧑‍💻 About Me
 
-### Technologies I am familiar with:
+> *"Code is craft. Rust is poetry."*
 
-#### Languages:
+Hey there! I'm a **passionate French developer** based in **Tours 🗼**, deeply in love with systems programming, game development, and the art of writing safe, blazing-fast code.
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+By day, I architect and build **enterprise business applications** with **Symfony** (10+ years and counting 💪). By night, I dive into the world of **Rust**, **Bevy**, and **game dev madness** — share the journey on my YouTube channel **[OxideGames](https://youtube.com/@OxideGames-k3f)** 🎮, and pour my soul into building a **commercial Werewolf social deduction game** 🐺.
 
-### Tools or framework I am familiar with:
+I'm endlessly curious about everything computer-science — from low-level memory management to language design, from game engines to compilers. If it computes, I probably want to understand how it works.
 
-#### Browsers:
+---
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+## 🦀 My Passion — Rust & Bevy
 
-#### CI:
+<div align="center">
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=CE422B)
+![Bevy](https://img.shields.io/badge/Bevy_Engine-232326?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmY2OTQ0IiBkPSJNMjU2IDQ4QzE0MSA0OCA0OCAxNDEgNDggMjU2czkzIDIwOCAyMDggMjA4IDIwOC05MyAyMDgtMjA4UzM3MSA0OCAyNTYgNDh6Ii8+PC9zdmc+&logoColor=white)
+![WGPU](https://img.shields.io/badge/wgpu-FF6944?style=flat-square)
 
-#### Databases:
+</div>
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Rust isn't just a language for me — it's a **philosophy**. The ownership model, the borrow checker, zero-cost abstractions... every time I write Rust, I feel like I'm writing something that *matters*.
 
-#### Design:
+**Bevy** is my playground: a beautifully ergonomic, ECS-based game engine built entirely in Rust. I use it to explore game mechanics, rendering techniques, and push the limits of what a Rust-native engine can do.
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+📺 **Follow the journey on [OxideGames](https://youtube.com/@OxideGames-k3f)** — tutorials, devlogs, and deep dives into Rust game development.
 
-#### Frameworks, Platforms and Libraries:
+---
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+## 🐺 Current Big Project — A Werewolf Deduction Game
 
-#### Gaming:
+<div align="center">
 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
+![Engine](https://img.shields.io/badge/Engine-Bevy-232326?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Genre](https://img.shields.io/badge/Genre-Social_Deduction-6A0DAD?style=for-the-badge)
 
-#### Hosting/SaaS:
+</div>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+> *The village sleeps... but something lurks in the shadows.*
 
-#### IDEs/Editors:
+I'm currently working on a **commercial social deduction game** set in the dark and atmospheric universe of **Werewolf** 🌕, built from scratch with **Bevy** and **Rust**.
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Think hidden roles, bluffing, accusations, and the eternal question: *who among us is the monster?*
 
-#### ML/DL:
+**Key features in the works:**
+- 🌙 Rich **day/night cycle** gameplay loop with tense voting phases
+- 🎭 Multiple **roles & factions** — villagers, werewolves, seers, and more
+- 🃏 Deep **social deduction mechanics** designed for both casual and competitive play
+- 🔊 Immersive atmosphere crafted entirely in Rust + Bevy ECS
+- 💻 Built as a **commercial release** — the ultimate test of Rust game dev in production
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+*Stay tuned on [OxideGames](https://youtube.com/@OxideGames-k3f) for devlogs and behind-the-scenes content!* 🎬
 
-#### Music:
+---
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+## 💎 Crystal — The Hidden Gem
 
-#### Operating System:
+<div align="center">
 
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Crystal](https://img.shields.io/badge/Crystal-000000?style=flat-square&logo=crystal&logoColor=white)
 
-#### Other:
+</div>
 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
+Crystal holds a special place in my heart. The elegance of Ruby-like syntax with the raw performance of a compiled language — it's a joy to write. I love exploring its macro system and type inference.
 
+---
 
-and many more because i'm very passionate ! 😋
+## 🕸️ Professional Life — Symfony & PHP
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![10+ Years](https://img.shields.io/badge/10+_years_experience-success?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+Over the past **10 years**, I've been building and maintaining **complex business applications** with the **Symfony framework**. From domain-driven design to API platforms, Hexagonal Architecture to event-driven systems — I've seen it all, and I keep pushing the craft further.
+
+---
+
+## 🛠️ Tech Universe
+
+<div align="center">
+
+| 🔥 Passion Projects | 💼 Professional Stack | 🧪 Always Exploring |
+|---|---|---|
+| ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust&logoColor=CE422B) | ![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony) | ![Crystal](https://img.shields.io/badge/-Crystal-000?style=flat&logo=crystal) |
+| ![Bevy](https://img.shields.io/badge/-Bevy-232326?style=flat) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![WebAssembly](https://img.shields.io/badge/-WASM-654FF0?style=flat&logo=webassembly&logoColor=white) |
+| 🎮 Game Dev | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | 🦾 Compilers |
+| 🐺 Werewolf Game (WIP) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | 🔬 Language Design |
+
+</div>
+
+---
+
+## 🎬 OxideGames — YouTube Channel
+
+<div align="center">
+
+[![OxideGames](https://img.shields.io/badge/▶_Watch_on_YouTube-OxideGames-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@OxideGames-k3f)
+
+</div>
+
+My channel **OxideGames** is dedicated to **Rust game development** with **Bevy**. You'll find:
+
+- 🎓 Step-by-step **tutorials** for beginners and intermediates
+- 📹 **Devlogs** documenting real game projects
+- 🔍 **Deep dives** into Rust concepts applied to game dev
+- ⚡ Performance tips, ECS patterns, rendering tricks
+
+---
+
+## 📍 Based in Tours, France
+
+<div align="center">
+
+🗺️ **Tours** · Centre-Val de Loire · 🇫🇷 France
+
+*La Ville des Rois — where history meets code*
+
+</div>
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/OxideGames-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@OxideGames-k3f)
+
+*Open to collaborations on Rust/Bevy projects, open source contributions, and tech discussions!*
+
+---
