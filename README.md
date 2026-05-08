@@ -7,7 +7,7 @@
                                                                            
 ```
 
-### 🦀 Rust Evangelist · ⚙️ Bevy Game Dev · 🐺 Indie Game Dev · 🎮 YouTuber · 🐦 Crystal Lover · 🕸️ Symfony Craftsman
+### 🦀 Rust Evangelist · ⚙️ Bevy Game Dev · 🐺 Indie Game Dev · 🎮 YouTuber · 🕸️ Symfony Craftsman
 
 <br/>
 
@@ -74,18 +74,6 @@ Think hidden roles, bluffing, accusations, and the eternal question: *who among 
 - 💻 Built as a **commercial release** — the ultimate test of Rust game dev in production
 
 *Stay tuned on [OxideGames](https://youtube.com/@OxideGames-k3f) for devlogs and behind-the-scenes content!* 🎬
-
----
-
-## 💎 Crystal — The Hidden Gem
-
-<div align="center">
-
-![Crystal](https://img.shields.io/badge/Crystal-000000?style=flat-square&logo=crystal&logoColor=white)
-
-</div>
-
-Crystal holds a special place in my heart. The elegance of Ruby-like syntax with the raw performance of a compiled language — it's a joy to write. I love exploring its macro system and type inference.
 
 ---
 
